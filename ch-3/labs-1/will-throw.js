@@ -4,3 +4,4 @@ function f (n = 99) {
 }
 f()
 
+// node --stack-trace-limit=200 ch-3/labs-1/will-throw.js 
