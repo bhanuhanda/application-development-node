@@ -3,3 +3,5 @@ function f (n = 99) {
   f(n - 1)
 }
 f()
+
+// node --inspect-brk ch-4/labs-1/app.js
